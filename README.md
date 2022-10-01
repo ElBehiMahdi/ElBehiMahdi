@@ -89,12 +89,6 @@ looking for a 6-month engineering internship for my end of study project startin
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElBehiMahdi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=my5pnhz3w10egxqrvwt1jbpi1&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ElBehiMahdi&&style=flat-square" align="center" />
 </div>  
