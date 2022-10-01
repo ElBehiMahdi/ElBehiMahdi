@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elbehimahdi&label=Profile%20views&color=0a0a0a&style=plastic" alt="elbehimahdi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elbehimahdi" alt="elbehimahdi" /></a> </p>
-
 - 🌱 I’m currently going deep in **Laravel, Jenkins and Spring Microservices**
 
 - 💬 Ask me about anything related to **MERN and MEAN stack and related technologies**
