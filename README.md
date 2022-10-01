@@ -21,28 +21,11 @@
 
 - ⚡ Fun fact **There is no shame in copying code from other people's projects**
 
-<tr>
-        <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/ElBehiMahdi/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-        <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://github.com/ElBehiMahdi/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
-        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://github.com/ElBehiMahdi/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
-        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://github.com/ElBehiMahdi/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/behi-mahdi-48a240167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behi-mahdi-48a240167" height="30" width="40" /></a>
 </p>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
