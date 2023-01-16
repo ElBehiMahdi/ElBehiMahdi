@@ -26,6 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbehimahdi&theme=dark" alt="elbehimahdi" /></p>
 
-<h3 align="left">Some stats:</h3>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=elbehimahdi&label=Profile%20views&color=0a0a0a&style=flatt="elbehimahdi" /> </p>
