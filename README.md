@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/behi-mahdi-48a240167/](https://www.linkedin.com/in/behi-mahdi-48a240167/)
 
-- ⚡ Fun fact **There is no shame in copying code from other people's projects**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/behi-mahdi-48a240167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behi-mahdi-48a240167" height="30" width="40" /></a>
