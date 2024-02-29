@@ -8,10 +8,7 @@
 
 - 📄 Know about my experiences [Mahdi Behi](https://www.linkedin.com/in/mahdi-behi-48a240167/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/behi-mahdi-48a240167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behi-mahdi-48a240167" height="30" width="40" /></a>
-<a href="https://discord.gg/#2179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2179" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/behi-mahdi-48a240167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behi-mahdi-48a240167" height="30" width="40" /></a>
+<a href="https://discord.gg/#2179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2179" height="30" width="40" /></a></h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elbehimahdi&label=Profile%20views&color=0a0a0a&style=flatt="elbehimahdi" /> </p>
