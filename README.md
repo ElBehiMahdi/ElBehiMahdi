@@ -7,5 +7,3 @@
 - 📫 How to reach me **mahdi.bahi@gmail.com**
 
 - 📄 Know about my experiences [Click here!!!](https://www.linkedin.com/in/mahdi-behi-48a240167/)
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=elbehimahdi&label=Profile%20views&color=0a0a0a&style=flatt="elbehimahdi" /> </p>
