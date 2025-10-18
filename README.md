@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently junior devops engineer going deep in **Devops Cloud Computing and MLOps**
 
-- 💬 Ask me about anything related to **MERN and MEAN stack and CI/CD Jenkins and Docker**
+- 💬 Ask me about anything related to **Linux, Virtualisation and CI/CD Jenkins and Docker**
 
 - 📫 How to reach me **mahdi.bahi@gmail.com**
 
